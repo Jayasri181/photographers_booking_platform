@@ -1,6 +1,6 @@
 # Photographer Booking Platform
 
-A full-stack platform for booking professional photographers, inspired by [photobooker.com](https://www.photobooker.com/).
+A full-stack platform for booking professional photographers.
 
 ## Tech Stack
 - **Frontend:** React.js, Tailwind CSS, Axios, Framer Motion
